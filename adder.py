@@ -1,2 +1,2 @@
-def sum(a: int, b: int) -> int:
+def add_to_adder(a: int, b: int) -> int:
     return a + b
